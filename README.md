@@ -41,7 +41,8 @@
 ### 💼 Meus projetos favoritos:
 - [📁 AUT – Análise de Dados sobre Autismo](https://github.com/MaraysaVaanessa/AUT)
 - [📊 Dashboards de Educação, Vendas e Saúde](#)
-- [📄 Meu currículo](link_para_o_curriculo)
+- [📄 Meu currículo] [📄 Meu currículo em PDF](https://github.com/MaraysaVaanessa/curriculo/blob/main/Curriculo.pdf)
+
 
 ---
 
